@@ -2,13 +2,13 @@
   "navbar": "OPTIMETRIC BETA",
   "networkToggle": "Network Optimization i",
   "performanceToggle": "Performance Mode i",
-  "disableSavePowerToggle": "Disable Save Power",
-  "surfaceFlingerToggle": "SurfaceFlinger Optimization",
-  "titleSettingsAdvance": "Advanced settings",
-  "subSettingsAdvance": "Press this button to display the advanced",
-  "runGame": "Optimize",
-  "downscaleSettings": "Downscale settings:",
-  "overlaySettings": "Game overlay mode:",
-  "thermalSettings": "Thermal Service:",
-  "titleResetSettings": "Reset Settings"
+  "disableSavePowerToggle": "Disable Save Power i",
+  "surfaceFlingerToggle": "SurfaceFlinger Optimization i",
+  "titleSettingsAdvance": "Advanced settings i",
+  "subSettingsAdvance": "Press this button to display the advanced i",
+  "runGame": "Optimize i",
+  "downscaleSettings": "Downscale settings: i",
+  "overlaySettings": "Game overlay mode: i",
+  "thermalSettings": "Thermal Service: i",
+  "titleResetSettings": "Reset Settings i"
 }
