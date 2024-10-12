@@ -2,7 +2,7 @@
   "navbar": "OPTIMETRIC BETA",
   "networkToggle": "Network Optimization i",
   "performanceToggle": "Performance Mode i",
-  "disableSavePowerToggle": "Disable Save Power i",
+  "disablePowerToggle": "Disable Save Power i",
   "surfaceFlingerToggle": "SurfaceFlinger Optimization i",
   "titleSettingsAdvance": "Advanced settings i",
   "subSettingsAdvance": "Press this button to display the advanced i",
